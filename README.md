@@ -10,6 +10,7 @@ This project uses a Logitech Brio 100 webcam, ESP8266, two servo motors, and a l
 
 ## Demonstration
 Check out the video demonstration of this project on YouTube:
+https://youtu.be/lr0-SiXOJu4
 
 [![Laser Tracking System - YouTube Video](https://img.youtube.com/vi/lr0-SiXOJu4/0.jpg)](https://youtu.be/lr0-SiXOJu4)
 
